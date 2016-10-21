@@ -1,0 +1,14 @@
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Data.dll.config
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Data.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Data.pdb
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Domain.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Domain.pdb
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.xml
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.xml
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.csprojResolveAssemblyReference.cache
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.dll
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.pdb
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.Migrations.InitialMigration.resources
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.GenerateResource.Cache
