@@ -1,0 +1,10 @@
+<h3>Tasks </h3>
+
+<div class="alert alert-success" role="alert" ng-if="todo.selectedTask">
+    Selected Task: <strong>{{todo.selectedTask.name}}</strong>
+</div>
+
+<div class="well task" ng-repeat="item in todo.tasks" ng-click="todo.setCurrentTask(item)">
+    <h4>{{item.name}}</h4>
+</div>
+

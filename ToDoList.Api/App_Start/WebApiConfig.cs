@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Formatting;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using Newtonsoft.Json.Serialization;
 
 namespace ToDoList.Api
@@ -31,6 +32,9 @@ namespace ToDoList.Api
             // force return objects to camel case
             var jsonStyleFormatter = config.Formatters.OfType<JsonMediaTypeFormatter>().FirstOrDefault();
             jsonStyleFormatter.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
+
+            var cors = new EnableCorsAttribute("http://localhost:55966", "*", "*");
+            config.EnableCors(cors);
         }
     }
 }

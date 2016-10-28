@@ -7,9 +7,11 @@ using System.Web.Http;
 using ToDoList.Domain.Entities;
 using ToDoList.Domain.Interfaces;
 using Task = ToDoList.Domain.Entities.Task;
+using System.Web.Http.Cors;
 
 namespace ToDoList.Api.Controllers
 {
+
     public class ToDoListController : ApiController
     {
         private readonly IRepository _repo;
@@ -19,15 +21,30 @@ namespace ToDoList.Api.Controllers
             _repo = repo;
         }
 
-
-        public IEnumerable<string> GetAll()
+        public Task Get(int id)
         {
-            return new string[] {"Hello", "Merhaba"};
+            return _repo.GetById(id);
         }
 
-        public Task GetTask()
+        public IEnumerable<Task> GetAll()
         {
-            return _repo.GetById(1);
+            return _repo.GetAll();
         }
+
+        public void Add([FromBody]Task task)
+        {
+            _repo.Add(task);
+        }
+
+        public void Update(int id, [FromBody]Task task)
+        {
+            _repo.Update(task);
+        }
+
+        public void Delete(int id)
+        {
+        }
+
+
     }
 }

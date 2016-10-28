@@ -22,7 +22,7 @@ namespace ToDoList.Data.Repositories
             _dbSet = _context.Set<Task>();
         }
 
-        public IQueryable<Task> GetAll()
+        public IEnumerable<Task> GetAll()
         {
             return _dbSet;
         }
@@ -43,6 +43,7 @@ namespace ToDoList.Data.Repositories
             else
             {
                 _dbSet.Add(task);
+                _context.SaveChanges();
             }
         }
 
@@ -55,6 +56,7 @@ namespace ToDoList.Data.Repositories
                 _dbSet.Attach(task);
             }
             entry.State = EntityState.Modified;
+            _context.SaveChanges();
         }
 
         public void Delete(Task task)
@@ -69,6 +71,7 @@ namespace ToDoList.Data.Repositories
             {
                 _dbSet.Attach(task);
                 _dbSet.Remove(task);
+                _context.SaveChanges();
             }
         }
     }

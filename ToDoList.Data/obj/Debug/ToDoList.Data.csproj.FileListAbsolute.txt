@@ -8,7 +8,13 @@ S:\Projects\ToDoList\ToDoList.Data\bin\Debug\ToDoList.Domain.pdb
 S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.xml
 S:\Projects\ToDoList\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.xml
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.csprojResolveAssemblyReference.cache
-S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.dll
-S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.pdb
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.Migrations.InitialMigration.resources
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.GenerateResource.Cache
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.dll
+S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.pdb
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\nunit.framework.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\nunit.framework.xml
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Castle.Core.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Moq.dll
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Castle.Core.xml
+S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Moq.xml

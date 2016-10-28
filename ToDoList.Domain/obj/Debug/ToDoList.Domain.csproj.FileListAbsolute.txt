@@ -1,5 +1,9 @@
 S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\ToDoList.Domain.dll
 S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\ToDoList.Domain.pdb
-S:\Projects\ToDoList\ToDoList.Domain\obj\Debug\ToDoList.Domain.csprojResolveAssemblyReference.cache
 S:\Projects\ToDoList\ToDoList.Domain\obj\Debug\ToDoList.Domain.dll
 S:\Projects\ToDoList\ToDoList.Domain\obj\Debug\ToDoList.Domain.pdb
+S:\Projects\ToDoList\ToDoList.Domain\obj\Debug\ToDoList.Domain.csprojResolveAssemblyReference.cache
+S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\Castle.Core.dll
+S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\Moq.dll
+S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\Castle.Core.xml
+S:\Projects\ToDoList\ToDoList.Domain\bin\Debug\Moq.xml

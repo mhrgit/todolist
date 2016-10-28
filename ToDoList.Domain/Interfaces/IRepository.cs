@@ -9,7 +9,7 @@ namespace ToDoList.Domain.Interfaces
 {
     public interface IRepository
     {
-        IQueryable<Task> GetAll();
+        IEnumerable<Task> GetAll();
         Task GetById(int id);
         void Add(Task task);
         void Update(Task task);
