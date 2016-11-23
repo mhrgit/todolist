@@ -72,8 +72,4 @@ S:\Projects\ToDoList\ToDoList.Api\bin\System.Web.Cors.dll
 S:\Projects\ToDoList\ToDoList.Api\bin\System.Web.Http.Cors.dll
 S:\Projects\ToDoList\ToDoList.Api\bin\System.Web.Http.Cors.xml
 S:\Projects\ToDoList\ToDoList.Api\bin\Castle.Core.dll
-S:\Projects\ToDoList\ToDoList.Api\bin\Moq.dll
-S:\Projects\ToDoList\ToDoList.Api\bin\nunit.framework.dll
 S:\Projects\ToDoList\ToDoList.Api\bin\Castle.Core.xml
-S:\Projects\ToDoList\ToDoList.Api\bin\Moq.xml
-S:\Projects\ToDoList\ToDoList.Api\bin\nunit.framework.xml

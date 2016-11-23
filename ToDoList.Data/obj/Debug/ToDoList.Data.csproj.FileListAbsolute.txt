@@ -12,9 +12,5 @@ S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.Migrations.InitialMig
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.GenerateResource.Cache
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.dll
 S:\Projects\ToDoList\ToDoList.Data\obj\Debug\ToDoList.Data.pdb
-S:\Projects\ToDoList\ToDoList.Data\bin\Debug\nunit.framework.dll
-S:\Projects\ToDoList\ToDoList.Data\bin\Debug\nunit.framework.xml
 S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Castle.Core.dll
-S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Moq.dll
 S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Castle.Core.xml
-S:\Projects\ToDoList\ToDoList.Data\bin\Debug\Moq.xml
